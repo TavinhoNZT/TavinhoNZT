@@ -1,4 +1,4 @@
-## Prazer eu sou o Otavio Luiz, Estudo programação e tecnologia!
+## Olá, Sou o Otavio Luiz, seja bem vindo ao meu GitHub!
 <div align="center">
   <a href="https://github.com/TavinhoNZT">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TavinhoNZT&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
